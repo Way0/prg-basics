@@ -426,7 +426,7 @@ stalj@uek.krakow.pl
     K r a k o w   U n i v e r s i t y   o f   E c o n o m i c s
     ```
 
-1. The Caesar cipher (also known as Caesar's code or Caesar shift) is one of the simplest and oldest encryption techniques. It is named after Julius Caesar, who reportedly used it to communicate secretly with his generals. The cipher is a type of substitution cipher, where each letter in the plaintext is shifted a certain number of places down the alphabet. 
+4. 5 The Caesar cipher (also known as Caesar's code or Caesar shift) is one of the simplest and oldest encryption techniques. It is named after Julius Caesar, who reportedly used it to communicate secretly with his generals. The cipher is a type of substitution cipher, where each letter in the plaintext is shifted a certain number of places down the alphabet. 
 
     Write a program that encrypts text using Caesar Code, shifting each letter in the alphabet right one position.
 
@@ -453,7 +453,7 @@ stalj@uek.krakow.pl
     print(encrypted_text...)
     ```
 
-1. The following program calculates the sum of integer numbers in the range \<1,5\>. Make the following changes to the program:
+4. 6 The following program calculates the sum of integer numbers in the range \<1,5\>. Make the following changes to the program:
 
     * sum the numbers from 5 to 10
     * use the **+=** operator in the expression **sum=sum+i**
@@ -470,7 +470,7 @@ stalj@uek.krakow.pl
     print(f'Sum is {sum}')
     ```
 
-1. Write a program that calculates the sum of even numbers in the range \<1,10\>.
+4. 7 Write a program that calculates the sum of even numbers in the range \<1,10\>.
 
     ```python
     ###
@@ -486,7 +486,7 @@ stalj@uek.krakow.pl
     print('Sum of even numbers in the range <1,10> is ...')
     ```
 
-1. Write a program that calculates values for the following fractions: 1/2, 1/3, ..., 1/10. Sample result:
+4. 8 Write a program that calculates values for the following fractions: 1/2, 1/3, ..., 1/10. Sample result:
 
     1/1 = 1.0\
     1/2 = 0.5\
